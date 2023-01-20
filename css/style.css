@@ -43,5 +43,7 @@ a {
 }
 
 .logo {
-  background-color: powderblue;
+  background-color: powderblue; 
+  padding: 8px 24px;
+  text-align: center;
 }
