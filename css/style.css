@@ -29,7 +29,7 @@ body {
     "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
     sans-serif;
   font-size: 1.4rem;
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 a {
@@ -39,11 +39,12 @@ a {
 
 /* 헤더 스타일 */
 .header {
-  background-color: tomato;
+  /* background-color: tomato; */
 }
 
 .logo {
-  background-color: powderblue; 
-  padding: 8px 24px;
+  /* background-color: powderblue;  */
+  padding: 10px 24px;
   text-align: center;
+  border-bottom: 1px solid gray;
 }
