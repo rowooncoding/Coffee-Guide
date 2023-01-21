@@ -39,25 +39,39 @@ a {
 
 /* 헤더 스타일 */
 .logo {
-  /* background-color: powderblue;  */
   padding: 10px 24px;
   text-align: center;
-  border-bottom: 1px solid gray;
+  border-bottom: 1px solid #c7c7c7;
 }
 
 .appNavigation {
-  /* background-color: tomato; */
+  border-bottom: 1px solid #c7c7c7;
 }
 
 .menu-list {
-  /* background-color: powderblue; */
   display: flex;
   flex : row nowrap;
   justify-content:space-around;
-  padding: 8px 24px;
+  padding: 10px 24px;
 }
 
 .menu-item {
-  /* background-color: gold; */
   font-size: 2rem;
 }
+
+/* 메인 */
+.appMain {
+  background-color: powderblue;
+  height: 70vh;
+  width: 1300px;
+  margin: 0 auto;
+}
+
+/* 푸터  */
+.appFooter {
+  background-color: tomato;
+  height: 30vh;
+}
+
+
+
