@@ -38,13 +38,26 @@ a {
 }
 
 /* 헤더 스타일 */
-.header {
-  /* background-color: tomato; */
-}
-
 .logo {
   /* background-color: powderblue;  */
   padding: 10px 24px;
   text-align: center;
   border-bottom: 1px solid gray;
+}
+
+.appNavigation {
+  /* background-color: tomato; */
+}
+
+.menu-list {
+  /* background-color: powderblue; */
+  display: flex;
+  flex : row nowrap;
+  justify-content:space-around;
+  padding: 8px 24px;
+}
+
+.menu-item {
+  /* background-color: gold; */
+  font-size: 2rem;
 }
