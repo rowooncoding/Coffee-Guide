@@ -75,17 +75,23 @@ a {
 }
 
 .catagori-name {
-  background-color: gray;
+  display: inline-block;
+  border-bottom: 1px solid #c7c7c7;
+  font-size: 15px;
+  padding: 20px;
 }
 
 .dripper {
   background-color: gold;
   border-bottom: 1px solid #c7c7c7;
+  margin-top: 10px;
 }
 
 .dripper-img {
   display: flex;
   flex: row nowrap;
+  justify-content: space-evenly;
+  margin: 20px;
 }
 
 .coffee-bean {
