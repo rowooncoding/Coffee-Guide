@@ -42,6 +42,7 @@ a {
   padding: 24px 24px;
   text-align: center;
   border-bottom: 1px solid #c7c7c7;
+  transform: translate(-50% -50%);
 }
 
 .logo-bar {
