@@ -70,8 +70,20 @@ a {
 .appMain {
   background-color: powderblue;
   height: 70vh;
-  width: 1300px;
+  width: 1360px;
   margin: 0 auto;
+}
+
+.dripper {
+  background-color: gold;
+}
+
+.coffee-bean {
+  background-color: pink;
+}
+
+.recomend-bean {
+  background-color: lightgreen;
 }
 
 /* 푸터  */
