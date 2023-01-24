@@ -68,10 +68,14 @@ a {
 
 /* 메인 */
 .appMain {
-  background-color: powderblue;
+  /* background-color: powderblue; */
   /* height: 70vh; */
   width: 1360px;
   margin: 0 auto;
+}
+
+.guide img {
+  border-radius: 10px;
 }
 
 .catagori-name {
@@ -82,9 +86,10 @@ a {
 }
 
 .dripper {
-  background-color: gold;
+  /* background-color: gold; */
   border-bottom: 1px solid #c7c7c7;
   margin-top: 10px;
+  border-bottom: 1px dotted #c7c7c7;
 }
 
 .dripper-img {
@@ -95,18 +100,19 @@ a {
 }
 
 .coffee-bean {
-  background-color: pink;
+  /* background-color: pink; */
   border-bottom: 1px solid #c7c7c7;
+  border-bottom: 1px dotted #c7c7c7;
 }
 
 .recomend-bean {
-  background-color: lightgreen;
-  border-bottom: 1px solid #c7c7c7;
+  /* background-color: lightgreen; */
+  /* border-bottom: 1px solid #c7c7c7; */
 }
 
 /* 푸터  */
 .appFooter {
-  background-color: tomato;
+  /* background-color: tomato; */
   height: 30vh;
 }
 
