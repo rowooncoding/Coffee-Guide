@@ -69,7 +69,7 @@ a {
 /* 메인 */
 .appMain {
   background-color: powderblue;
-  height: 70vh;
+  /* height: 70vh; */
   width: 1360px;
   margin: 0 auto;
 }
