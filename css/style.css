@@ -74,9 +74,18 @@ a {
   margin: 0 auto;
 }
 
+.catagori-name {
+  background-color: gray;
+}
+
 .dripper {
   background-color: gold;
   border-bottom: 1px solid #c7c7c7;
+}
+
+.dripper-img {
+  display: flex;
+  flex: row nowrap;
 }
 
 .coffee-bean {
