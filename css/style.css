@@ -39,15 +39,22 @@ a {
 
 /* 헤더 스타일 */
 .logo {
-  padding: 10px 24px;
+  padding: 24px 24px;
   text-align: center;
   border-bottom: 1px solid #c7c7c7;
 }
 
+.logo-bar {
+  background-color: yellow;
+  position: absolute;
+  left: 17px;
+}
+
+/* 메뉴 스타일 */
+
 .appNavigation {
   border-bottom: 1px solid #c7c7c7;
 }
-
 .menu-list {
   display: flex;
   flex : row nowrap;
